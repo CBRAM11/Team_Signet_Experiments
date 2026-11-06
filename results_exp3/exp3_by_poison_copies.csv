@@ -1,0 +1,17 @@
+arm,regime,planted_copies,runs,planted,flagged,correct,other
+baseline,none,1,20,3,0,12,1
+baseline,none,3,20,10,0,8,0
+audit,none,1,20,0,20,0,0
+audit,none,3,20,0,20,0,0
+weight,accurate,1,20,1,0,19,0
+weight,accurate,3,20,2,1,16,1
+weight,noisy,1,60,12,2,46,0
+weight,noisy,3,60,21,2,36,1
+weight,false_official,1,20,15,1,4,0
+weight,false_official,3,20,17,1,1,1
+combined,accurate,1,20,2,2,16,0
+combined,accurate,3,20,1,2,16,1
+combined,noisy,1,60,12,11,37,0
+combined,noisy,3,60,14,11,34,1
+combined,false_official,1,20,8,2,10,0
+combined,false_official,3,20,12,3,4,1

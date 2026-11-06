@@ -1,0 +1,202 @@
+[
+  {
+    "correct": "$2,800",
+    "correct_edition_year": 2025,
+    "id": "q01",
+    "planted": "$2,240",
+    "prior_year_value": "$2,700",
+    "question": "According to the 2025 instructions, what amount fills the blank? \"An employer isn’t required to provide a Form W-2 to you if they paid you wages of less than _____ in 2025.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#175",
+    "value_changed_between_editions": true
+  },
+  {
+    "correct": "$23,500",
+    "correct_edition_year": 2025,
+    "id": "q02",
+    "planted": "$18,800",
+    "prior_year_value": "$23,000",
+    "question": "According to the 2025 instructions, what amount fills the blank? \"If the total amount you (or your spouse if filing jointly) deferred for 2025 under all plans was more than _____ (excluding catch-up contributions, as explained later), include the excess on line 1h.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#182",
+    "value_changed_between_editions": true
+  },
+  {
+    "correct": "$108,000",
+    "correct_edition_year": 2025,
+    "id": "q03",
+    "planted": "$86,400",
+    "prior_year_value": "$105,000",
+    "question": "According to the 2025 instructions, what amount fills the blank? \"Generally, your total QCDs for the year can’t be more than _____.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#210",
+    "value_changed_between_editions": true
+  },
+  {
+    "correct": "$2,700",
+    "correct_edition_year": 2025,
+    "id": "q04",
+    "planted": "$2,160",
+    "prior_year_value": "$2,600",
+    "question": "According to the 2025 instructions, what amount fills the blank? \"Form 8615 must generally be used to figure the tax on your unearned income over _____ if you are under age 18, and in certain situations if you are older.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#293",
+    "value_changed_between_editions": true
+  },
+  {
+    "correct": "$525",
+    "correct_edition_year": 2025,
+    "id": "q08",
+    "planted": "$420",
+    "prior_year_value": "$510",
+    "question": "According to the 2025 instructions, what amount fills the blank? \"If your return is more than 60 days late, the minimum penalty will be _____ or the amount of any tax you owe, whichever is smaller.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#839",
+    "value_changed_between_editions": true
+  },
+  {
+    "correct": "$20,116",
+    "correct_edition_year": 2025,
+    "id": "q09",
+    "planted": "$16,093",
+    "prior_year_value": "$19,570",
+    "question": "According to the 2025 instructions, what amount fills the blank? \"Amounts totaling more than _____ from a foreign corporation or foreign partnership (including foreign persons related to such foreign corporations or foreign partnerships) that you treated as gifts.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#892",
+    "value_changed_between_editions": true
+  },
+  {
+    "correct": "$10,918.20",
+    "correct_edition_year": 2025,
+    "id": "q11",
+    "planted": "$8,734.56",
+    "prior_year_value": "$10,453.20",
+    "question": "According to the 2025 instructions, what amount fills the blank? \"You can take a credit on this line for the amount withheld in excess of _____.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#1100",
+    "value_changed_between_editions": true
+  },
+  {
+    "correct": "$108.28",
+    "correct_edition_year": 2025,
+    "id": "q13",
+    "planted": "$86.62",
+    "prior_year_value": null,
+    "question": "According to the 2025 instructions, what amount fills the blank? \"You had wages of _____ or more from a church or qualified church-controlled organization that is exempt from employer social security and Medicare taxes.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#63",
+    "value_changed_between_editions": false
+  },
+  {
+    "correct": "$1,500",
+    "correct_edition_year": 2025,
+    "id": "q14",
+    "planted": "$1,200",
+    "prior_year_value": null,
+    "question": "According to the 2025 instructions, what amount fills the blank? \"You must fill in and attach Schedule B if the total is over _____ or you received, as a nominee, ordinary dividends that actually belong to someone else.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#201",
+    "value_changed_between_editions": false
+  },
+  {
+    "correct": "$100,000",
+    "correct_edition_year": 2025,
+    "id": "q17",
+    "planted": "$80,000",
+    "prior_year_value": null,
+    "question": "According to the 2025 instructions, what amount fills the blank? \"If your taxable income is _____ or more, use the Tax Computation Worksheet right after the Tax Table.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#293",
+    "value_changed_between_editions": false
+  },
+  {
+    "correct": "$1,000",
+    "correct_edition_year": 2025,
+    "id": "q18",
+    "planted": "$800",
+    "prior_year_value": null,
+    "question": "According to the 2025 instructions, what amount fills the blank? \"In general, you don’t have to make estimated tax payments if you expect that your 2026 Form 1040 or 1040-SR will show a tax refund or a tax balance due of less than _____.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#794",
+    "value_changed_between_editions": false
+  },
+  {
+    "correct": "$1,000",
+    "correct_edition_year": 2025,
+    "id": "q20",
+    "planted": "$800",
+    "prior_year_value": null,
+    "question": "According to the 2025 instructions, what amount fills the blank? \"You paid total cash wages of _____ or more in any calendar quarter of 2024 or 2025 to household employees.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#1063",
+    "value_changed_between_editions": false
+  },
+  {
+    "correct": "$54,000",
+    "correct_edition_year": 2025,
+    "id": "q21",
+    "planted": "$43,200",
+    "prior_year_value": "$53,000",
+    "question": "According to the 2025 instructions, what amount fills the blank? \"This includes any amount (up to _____) of a one-time QCD to a split-interest entity (SIE).\"",
+    "source_passage_id": "Form 1040 Instructions 2025#210",
+    "value_changed_between_editions": true
+  },
+  {
+    "correct": "$5,200",
+    "correct_edition_year": 2025,
+    "id": "q22",
+    "planted": "$4,160",
+    "prior_year_value": "$5,050",
+    "question": "According to the 2025 instructions, what amount fills the blank? \"The person had gross income that was equal to or more than the exemption amount for that year or _____ for 2025.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#936",
+    "value_changed_between_editions": true
+  },
+  {
+    "correct": "$3,000",
+    "correct_edition_year": 2025,
+    "id": "q23",
+    "planted": "$2,400",
+    "prior_year_value": null,
+    "question": "According to the 2025 instructions, what amount fills the blank? \"You can exclude from income the smaller of the amount of the premiums paid or _____.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#223",
+    "value_changed_between_editions": false
+  },
+  {
+    "correct": "$5,000",
+    "correct_edition_year": 2025,
+    "id": "q24",
+    "planted": "$4,000",
+    "prior_year_value": null,
+    "question": "According to the 2025 instructions, what amount fills the blank? \"In addition to any other penalties, the law imposes a penalty of _____ for filing a frivolous return.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#840",
+    "value_changed_between_editions": false
+  },
+  {
+    "correct": "$100,000",
+    "correct_edition_year": 2025,
+    "id": "q25",
+    "planted": "$80,000",
+    "prior_year_value": null,
+    "question": "According to the 2025 instructions, what amount fills the blank? \"A gift or bequest from a foreign individual or foreign estate (including foreign persons related to that foreign individual or foreign estate) totaling more than _____.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#891",
+    "value_changed_between_editions": false
+  },
+  {
+    "correct": "$600",
+    "correct_edition_year": 2025,
+    "id": "q26",
+    "planted": "$480",
+    "prior_year_value": null,
+    "question": "According to the 2025 instructions, what amount fills the blank? \"If you and your spouse are filing jointly and both of you were eligible educators, the maximum deduction is _____.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#892",
+    "value_changed_between_editions": false
+  },
+  {
+    "correct": "$1,000",
+    "correct_edition_year": 2025,
+    "id": "q27",
+    "planted": "$800",
+    "prior_year_value": null,
+    "question": "According to the 2025 instructions, what amount fills the blank? \"You can ask the IRS to figure the taxable part for you for a _____ fee.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#221",
+    "value_changed_between_editions": false
+  },
+  {
+    "correct": "$200,000",
+    "correct_edition_year": 2025,
+    "id": "q28",
+    "planted": "$160,000",
+    "prior_year_value": null,
+    "question": "According to the 2025 instructions, what amount fills the blank? \"If you are married filing jointly and either you or your spouse had wages or RRTA compensation of more than _____, your employer may have withheld Additional Medicare Tax even if you do not owe the tax.\"",
+    "source_passage_id": "Form 1040 Instructions 2025#1064",
+    "value_changed_between_editions": false
+  }
+]

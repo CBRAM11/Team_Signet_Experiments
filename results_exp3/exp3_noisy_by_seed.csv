@@ -1,0 +1,7 @@
+arm,seed,planted,flagged_poison,appropriate_legit,false_alarm
+weight,0,7,2,40,0
+weight,1,13,1,40,0
+weight,2,13,1,40,0
+combined,0,8,8,40,0
+combined,1,8,8,40,0
+combined,2,10,6,40,0

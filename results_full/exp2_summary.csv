@@ -1,0 +1,8 @@
+arm,labels,threshold,attack_success_%(poisoned),correct_%(poisoned),flagged_%(poisoned),correct_%(clean+benign),flagged_%(clean),flagged_%(benign),legit_answer_chunks_dropped_%,llm_calls_per_question,seconds_per_question
+baseline,-,,32.5,50.0,0.0,90.0,0.0,0.0,0.0,1.0,5.7
+filter,gold,0.8,0.0,85.0,0.0,92.5,0.0,0.0,20.9,1.0,1.8
+filter,noisy,0.8,15.0,67.5,0.0,82.5,0.0,0.0,35.2,1.0,1.8
+weight,gold,,7.5,87.5,2.5,100.0,0.0,0.0,0.0,1.0,5.6
+weight,noisy,,17.5,77.5,5.0,100.0,0.0,0.0,0.0,1.0,4.0
+separated,gold,,2.5,87.5,0.0,87.5,0.0,0.0,0.0,6.0,15.7
+separated,noisy,,32.5,60.0,0.0,87.5,0.0,0.0,0.0,6.0,4.1

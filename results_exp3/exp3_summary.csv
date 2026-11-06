@@ -1,0 +1,9 @@
+arm,regime,seeds,poisoned_runs,planted,flagged_poison,safe_poison,legit_runs,correct_legit,appropriate_legit,false_alarm,false_alarm_denominator,stale_changed,flag_changed,changed_runs,other,calls_per_question
+baseline,none,,40,13,0,20,40,36,36,0,31,4,0,9,1,1.0
+audit,none,,40,0,40,40,40,31,37,2,31,1,6,9,0,1.0
+weight,accurate,,40,3,1,36,40,40,40,0,31,0,0,9,1,1.0
+weight,noisy,3,120,33,4,86,120,120,120,0,93,0,0,27,1,1.0
+weight,false_official,,40,32,2,7,40,40,40,0,31,0,0,9,1,1.0
+combined,accurate,,40,3,4,36,40,40,40,0,31,0,0,9,1,2.0
+combined,noisy,3,120,26,22,93,120,120,120,0,93,0,0,27,1,2.0
+combined,false_official,,40,20,5,19,40,40,40,0,31,0,0,9,1,2.0

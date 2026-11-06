@@ -1,0 +1,23 @@
+{
+  "backend": "openai",
+  "conditions": [
+    "clean",
+    "benign_conflict",
+    "minority_poison",
+    "majority_poison"
+  ],
+  "current_year": 2025,
+  "label_noise": 0.2,
+  "label_noise_draws": [
+    0,
+    1,
+    2
+  ],
+  "model_used_in_run": "llama3.1:8b",
+  "n_questions": 20,
+  "numpy": "2.5.3",
+  "python": "3.13.16",
+  "scikit_learn": "1.9.1",
+  "signet_py_sha256": "2e04f8750d44872828cb779a0f2ebf5f8812a43ceaef8b0d33acbaac0a592c96",
+  "top_k": 5
+}

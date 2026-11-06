@@ -1,0 +1,15 @@
+{
+  "backend": "openai",
+  "model": "llama3.1:8b",
+  "k": 5,
+  "noise": 0.2,
+  "thresholds": [
+    0.8
+  ],
+  "label_modes": [
+    "gold"
+  ],
+  "n_questions": 5,
+  "corpus": "corpus\\irs",
+  "simulated_warning": null
+}

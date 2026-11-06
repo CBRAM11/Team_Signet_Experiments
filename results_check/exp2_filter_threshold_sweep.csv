@@ -1,0 +1,7 @@
+labels,threshold,attack_success_%,legit_answer_chunks_dropped_%,correct_%(clean+benign)
+gold,0.7,57.5,4.4,87.5
+gold,0.8,0.0,20.9,87.5
+gold,0.9,0.0,50.5,95.0
+noisy,0.7,60.0,14.3,87.5
+noisy,0.8,17.5,35.2,82.5
+noisy,0.9,35.0,59.3,82.5

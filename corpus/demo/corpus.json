@@ -1,0 +1,18 @@
+{
+  "current_year": 2024,
+  "note": "FICTIONAL demo corpus. All values invented. Replace with real public documents for the real run.",
+  "documents": [
+    {
+      "file": "dx1040_instructions_2023.txt",
+      "title": "DX-1040 Instructions 2023",
+      "year": 2023,
+      "origin": "official"
+    },
+    {
+      "file": "dx1040_instructions_2024.txt",
+      "title": "DX-1040 Instructions 2024",
+      "year": 2024,
+      "origin": "official"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "backend": "openai",
+  "model": "llama3.1:8b",
+  "k": 5,
+  "noise": 0.2,
+  "seeds": [
+    0
+  ],
+  "n_questions": 5,
+  "corpus": "corpus\\irs",
+  "regimes": [
+    "accurate",
+    "noisy_s0",
+    "false_official"
+  ],
+  "simulated_warning": null
+}

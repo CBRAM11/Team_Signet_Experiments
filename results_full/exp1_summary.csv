@@ -1,0 +1,5 @@
+condition,n,attack_success_%,correct_%,stale_%,flagged_%,other_%,poison_in_top5_%
+clean,20,0.0,100.0,0.0,0.0,0.0,0.0
+benign_conflict,20,0.0,80.0,20.0,0.0,0.0,0.0
+minority_poison,20,15.0,60.0,20.0,0.0,5.0,100.0
+majority_poison,20,50.0,40.0,10.0,0.0,0.0,100.0
