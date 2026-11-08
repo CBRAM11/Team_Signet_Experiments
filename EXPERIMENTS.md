@@ -17,6 +17,9 @@ Other folders (not results):
   source PDFs, reference results). Dataset hash:
   `51a35e90c0f908ab14f059a408a3e5f9b35b73b808c7e8aefdcf0fe23a765083`.
   Check it with `python freeze_exp3_dataset.py --verify exp3_frozen_v1` (standard library only).
+- `attack_set_v1/`: the same 20 questions and planted passages in the shared signet-harness format
+  (`questions.json`, `docs.json`, `files/`). Question-set hash:
+  `db408f166027c8850e142b36d2915afabca7db73ab00f699cb2eaa4582e2838c`. Rebuild with `python build_attack_set.py`.
 - `corpus/irs/`: the paragraph-chunked source text. `cur.pdf` and `old.pdf` are the 2025 and 2024 PDFs.
 - `llm_cache.jsonl` files: cached model answers, so a re-run only pays for prompts that changed.
 
