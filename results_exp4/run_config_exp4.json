@@ -1,0 +1,17 @@
+{
+  "backend": "openai",
+  "model": "llama3.1:8b",
+  "k": 5,
+  "n_questions": 20,
+  "corpus": "corpus\\irs",
+  "conditions": [
+    "clean",
+    "benign_conflict",
+    "inplace_1",
+    "inplace_3",
+    "mixed_inplace_1",
+    "mixed_inplace_3"
+  ],
+  "ref_passages": 10,
+  "simulated_warning": null
+}

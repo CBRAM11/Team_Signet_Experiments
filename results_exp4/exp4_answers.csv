@@ -1,0 +1,7 @@
+condition,attacked,correct,stale
+clean,0,20,0
+benign_conflict,0,16,4
+inplace_1,20,0,0
+inplace_3,20,0,0
+mixed_inplace_1,11,6,3
+mixed_inplace_3,13,4,3

@@ -1,0 +1,8 @@
+detector,"detects: in-place edit, 2025 only (n=40)",...of which true wording not retrieved (n=32),"detects: edit, 2024+2025 library (n=40)",false flags: clean (n=20),false flags: benign edition differences (n=20),coverage on clean questions (n=20)
+D1 content audit,7/40 (18%),2/32 (6%),38/40 (95%),1/20 (5%),7/20 (35%),14/20 (70%)
+D2 corpus cross-check,30/40 (75%),25/32 (78%),17/40 (42%),11/20 (55%),6/20 (30%),16/20 (80%)
+D3 prior version (stable values),17/40 (42%),15/32 (47%),0/40 (0%),0/20 (0%),0/20 (0%),11/20 (55%)
+D3 prior version (all questions),35/40 (88%),32/32 (100%),3/40 (8%),9/20 (45%),2/20 (10%),20/20 (100%)
+D4 model prior,29/40 (72%),27/32 (84%),27/40 (68%),14/20 (70%),13/20 (65%),17/20 (85%)
+"ANY of D2, D3, D4 (references only)",37/40 (92%),32/32 (100%),30/40 (75%),17/20 (85%),14/20 (70%),20/20 (100%)
+ANY of D1-D4,40/40 (100%),32/32 (100%),40/40 (100%),17/20 (85%),15/20 (75%),n/a

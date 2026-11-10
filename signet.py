@@ -216,7 +216,7 @@ class LLM:
                     j = json.loads(r.read())
                 if self.backend == "anthropic":
                     return "".join(b.get("text", "") for b in j["content"])
-                return j["choices"][0]["message"]["content"]
+                return j["choices"][0]["message"]["content"] or ""
             except urllib.error.HTTPError as e:
                 if e.code in (429, 500, 502, 503, 529) and attempt < 5:
                     time.sleep(2 ** attempt)
